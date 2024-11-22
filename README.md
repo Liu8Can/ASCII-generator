@@ -74,7 +74,6 @@ This project is licensed under the GPL-3.0 License.
    pip install numpy opencv-python pillow
    ```
 
-根据你提供的参数内容，图片和视频的可选参数确实存在差异，我将重新整理这部分内容并对 README 文档进行优化。以下是改进后的 README 文档中对参数的介绍部分：
 
 ---
 
