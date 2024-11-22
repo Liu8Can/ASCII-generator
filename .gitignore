@@ -1,0 +1,23 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+.venv/
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python specific
+*.egg-info/
+dist/
+build/
