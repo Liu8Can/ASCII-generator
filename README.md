@@ -1,14 +1,14 @@
 # ASCII Generator
 
 Author: Viet Nguyen <nhviet1009@gmail.com>  
-Forked and maintained by Liu8Can <liucan01234@gmail.com>  
+Forked 和 maintained by Liu8Can <liucan01234@gmail.com>  
 Repository: [https://github.com/Liu8Can/ASCII-generator](https://github.com/Liu8Can/ASCII-generator)
 
 This project is licensed under the GPL-3.0 License.
 
 [![License](https://img.shields.io/badge/license-GPLv3-blue)](https://opensource.org/licenses/GPL-3.0)
 [![Python](https://img.shields.io/badge/python-3.6%2B-green)](https://www.python.org/)  
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/Liu8Can/ASCII-generator)  
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange)](https://github.com/Liu8Can/AsciiCraft)  
 
 ## 📌 项目简介
 
