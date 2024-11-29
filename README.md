@@ -2,7 +2,7 @@
 
 Author: Viet Nguyen <nhviet1009@gmail.com>  
 Forked 和 maintained by Liu8Can <liucan01234@gmail.com>  
-Repository: [https://github.com/Liu8Can/ASCII-generator](https://github.com/Liu8Can/ASCII-generator)
+Repository: [https://github.com/Liu8Can/AsciiCraft](https://github.com/Liu8Can/AsciiCraft)
 
 This project is licensed under the GPL-3.0 License.
 
