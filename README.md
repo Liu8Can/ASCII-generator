@@ -1,4 +1,4 @@
-# ASCII Generator
+# AsciiCraft
 
 Author: Viet Nguyen <nhviet1009@gmail.com>  
 Forked 和 maintained by Liu8Can <liucan01234@gmail.com>  
